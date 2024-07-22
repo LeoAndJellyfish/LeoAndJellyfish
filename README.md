@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @LeoAndJellyfish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About Me
 
-<!---
-LeoAndJellyfish/LeoAndJellyfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+首先：
+
+```
+Hello World！
+```
+
+我是LeoAndJellyfish
+
+我的[github](https://github.com/LeoAndJellyfish)
+
+我的[知乎](https://www.zhihu.com/people/leobu-shi-li-ao-24)
+
+QQ：1829673032
